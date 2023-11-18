@@ -1,12 +1,12 @@
 # Ore&Apo
  2 Player, 2d Platformer
 
-#Overview
+# Overview
 
-#Main Menu
+# Main Menu
 
-#Gameplay
+# Gameplay
 
-#Requirements
+# Requirements
 
-#Build File
+# Build File
