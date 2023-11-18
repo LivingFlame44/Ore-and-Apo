@@ -1,5 +1,6 @@
 # Ore&Apo
- 2 Player, 2d Puzzle Platformer
+ 2 Player, 2d Puzzle Platformer made in Unity Engine.
+![image](https://github.com/LivingFlame44/Ore-and-Apo/assets/151269910/66e2120d-c591-4312-ad74-f499012b332a)
 
 # Overview
  Ore and Apo were trying to reach the highest rank in the game Apegs for an entire week that they forgot to eat and soon died. Soon after, they realized that they had been transferred to another world. They now must find a way to escape and get back to their original world because they still haven’t finished ranking together.
@@ -25,9 +26,10 @@ D/Right Arrow- Move Right
 # Requirements
 Computer
 
-# Build File
-Download Tutorial:\
-Download then extract the entire folder\
-Open .exe file to play\
-
+# Downlaod Tutorial
+1. Download folder from g-drive\
+2. Extract the folder\
+3. Open .exe file to play\
+4. Enjoy!\
+\
 Build File: [DOWNLOAD HERE](https://drive.google.com/drive/folders/1gqWb36z-UynhIbCDmHv_tY5EbMYimeU0?usp=drive_link)
