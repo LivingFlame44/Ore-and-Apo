@@ -26,4 +26,8 @@ D/Right Arrow- Move Right
 Computer
 
 # Build File
-Work in Progress
+Download Tutorial:\
+Download then extract the entire folder\
+Open .exe file to play\
+
+Build File: [DOWNLOAD HERE](https://drive.google.com/drive/folders/1gqWb36z-UynhIbCDmHv_tY5EbMYimeU0?usp=drive_link)
