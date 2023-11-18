@@ -18,7 +18,9 @@
 ![FullLevel1](https://github.com/LivingFlame44/Ore-and-Apo/assets/151269910/179c7e4c-54cf-496a-a618-cff99b85e834)
 
 # Controls
-W/Up Arrow- Jump, A/Left Arrow- Move Left, D/Right Arrow- Move Right
+W/Up Arrow- Jump\
+A/Left Arrow- Move Left\
+D/Right Arrow- Move Right
 
 # Requirements
 Computer
