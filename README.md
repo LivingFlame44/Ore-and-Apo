@@ -31,5 +31,5 @@ Computer
 2. Extract the folder\
 3. Open .exe file to play\
 4. Enjoy!\
-\
+
 Build File: [DOWNLOAD HERE](https://drive.google.com/drive/folders/1gqWb36z-UynhIbCDmHv_tY5EbMYimeU0?usp=drive_link)
