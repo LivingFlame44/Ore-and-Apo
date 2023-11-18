@@ -1,5 +1,5 @@
 # Ore&Apo
- 2 Player, 2d Platformer
+ 2 Player, 2d Puzzle Platformer
 
 # Overview
  Ore and Apo were trying to reach the highest rank in the game Apegs for an entire week that they forgot to eat and soon died. Soon after, they realized that they had been transferred to another world. They now must find a way to escape and get back to their original world because they still haven’t finished ranking together.
