@@ -8,6 +8,7 @@
  Ore & Apo is a platformer that can be played by 2 players. The player/s needs to make the 2 characters Ore and Apo reach the exit of each stage by getting past obstacles and solving different puzzles to reach the exit for them to be able to move onto the next levels.
 
 # Main Menu
+![image](https://github.com/LivingFlame44/Ore-and-Apo/assets/151269910/b3f31690-2af1-44df-9624-a32cc2295a23)
 
 
 # In-Game Screenshot
