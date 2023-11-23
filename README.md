@@ -26,8 +26,8 @@ D/Right Arrow- Move Right
 # Requirements
 Computer
 
-# Downlaod Tutorial
-1. Download folder from g-drive
+# Download Tutorial
+1. Download folder from G-drive
 2. Extract the folder
 3. Open .exe file to play
 4. Enjoy!
